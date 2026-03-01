@@ -14,6 +14,7 @@ export function useChatStream() {
         setIsStreaming(true);
 
         try {
+            // const response = await fetch('/api/llm/chat', {
             const response = await fetch('/llm/chat', {
                 method: 'POST',
                 headers: {

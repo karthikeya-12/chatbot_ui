@@ -1,0 +1,61 @@
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=vemakarthikeya2002@gmail.com
+    Type: Generic 
+    User: vemakarthikeya2002@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02zmlnrniourqxhk
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=Olk/PushNotificationsBackupKey
+    Type: Generic 
+    User: Olk/PushNotificationsBackupKey
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=zed:url=https://zed.dev
+    Type: Generic 
+    User: 608902
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=git:https://bitbucket.org/refresh_token
+    Type: Generic 
+    User: trevolabs25-admin
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=vemakarthikeya2002@gmail.com
+    Type: Generic 
+    User: vemakarthikeya2002@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=LenovoSsoSdkDidToken
+    Type: Generic 
+    User: LenovoSsoSdk
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02zmlnrniourqxhk
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=OneDrive Cached Credential
+    Type: Generic 
+    User: ba2230e1b2c43f42
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Olk/PushNotificationsKey
+    Type: Generic 
+    User: Olk/PushNotificationsKey
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://index.docker.io/v1/
+    Type: Generic 
+    User: karthivema
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Nearby_106892855969213472361
+    Type: Generic 
+    
